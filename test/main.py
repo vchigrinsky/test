@@ -1,1 +1,1 @@
-print('Welcome to vchigrinsky branch')
+print('vchigrinsky -> master merge')
