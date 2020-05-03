@@ -1,5 +1,5 @@
 def main():
-    print('Welcome to new branch!')
+    print('Welcome to vchigrinsky branch!')
 
 
 if __name__ == '__main__':
