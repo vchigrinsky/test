@@ -1,5 +1,5 @@
 def main():
-    print('Hello world!')
+    print('Welcome to new branch!')
 
 
 if __name__ == '__main__':
